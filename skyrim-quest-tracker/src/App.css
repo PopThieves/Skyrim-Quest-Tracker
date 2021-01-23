@@ -1,0 +1,16 @@
+.banner {
+  padding: 0;
+  width: 35;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 1px;
+}
+
+.skyrim-logo {
+  height: 37px;
+  width: auto;
+  margin-top: 2px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
