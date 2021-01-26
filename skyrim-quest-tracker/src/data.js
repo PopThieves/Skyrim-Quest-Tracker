@@ -217,3 +217,54 @@ exports.companionsQuestsInfo = {
     "Kill the dragon at the den",
   ],
 };
+
+exports.thievesGuildQuestInfo = {
+  title: "Thieves Guild",
+  quests: [
+    "A Chance Arrangement",
+    "Taking Care of Business",
+    "Loud and Clear",
+    "Dampened Spirits",
+    "Scoundrel's Folly",
+    "Speaking With Silence",
+    "Hard Answers",
+    "The Pursuit",
+    "Trinity Restored",
+    "Blindsighted",
+    "Darkness Returns",
+    "Under New Management",
+    "Imitation Amnesty",
+    "Summerset Shadows",
+    "Silver Lining",
+    "The Dainty Sload",
+    "Delivery",
+    "No Stone Unturned",
+  ],
+  questDesc: [],
+};
+
+exports.bladesQuestsInfo = {
+  title: "Blades",
+  quests: ["Paarthurnax", "Rebuilding the Blades", "Dragon Hunting"],
+  questDesc: [
+    "Kill or spare Paarthurnax",
+    "Initiate three new Blades",
+    "Defeat the dragon",
+  ],
+};
+
+exports.bardsCollegeQuestsInfo = {
+  title: "Bards College",
+  quests: [
+    "Tending the Flames",
+    "Find Rjorn's Drum",
+    "Find Finn's Lute",
+    "Find Pantea's Flute",
+  ],
+  questDesc: [
+    "Find King Olaf's verse",
+    "Retrieve the drum",
+    "Retrieve the Lute",
+    "Retrieve the Flute",
+  ],
+};
